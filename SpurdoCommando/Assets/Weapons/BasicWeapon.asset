@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88912985b5be8b41a3dd698235950ad, type: 3}
+  m_Name: BasicWeapon
+  m_EditorClassIdentifier: 
+  weaponName: BasicTussari
+  damage: 2
+  firerate: 0.25
+  range: 0.5
+  clip: 10
+  bullet: {fileID: 7228775853671732661, guid: 0cc72e6c36c11b04c9080ddb8bb5688e, type: 3}
